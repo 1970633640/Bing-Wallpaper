@@ -11,9 +11,10 @@ Add the .vbs file in the autostart folder. (mind the path in the vbs file)
 
 ## FAQ
 -The description is in Chinese? What if my screen resolution is not 1920x1080?
+
 -You can **mo**dify the source code by yourself lol.
 
-## Samples
+## Samples (compressed)
 
 (open an issue for DMCA takedown?)
 
@@ -36,9 +37,10 @@ enhanced picture
 
 ## FAQ
 -为什么图片描述是中文的？如果我的屏幕分辨率不是1920x1080怎么办？
+
 -你可以自己 **魔**改源代码啊，哈哈。
 
-## 样例
+## 样例（图片经过压缩）
 
 (如果有版权问题可以开issue?)
 
