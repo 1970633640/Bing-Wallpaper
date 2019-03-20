@@ -37,7 +37,7 @@ if test1() == 0:
     # print result
     # page = result.read()
     result = result2
-    ans = "http://cn.bing.com" + result[result.find("\"url\":\"") + 7:result.find(".jpg\",\"urlbase") + 4]
+    ans = "http://cn.bing.com" + result[result.find("\"url\":\"") + 7:result.find(".jpg&pid=hp\",\"urlbase") + 4]
     print (ans)
     ans2 = result[result.find("copyright\":\"") + 12:result.find(u" (©")]
     print(ans2)
